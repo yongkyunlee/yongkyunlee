@@ -1,5 +1,5 @@
 <h2 align="center">Hey, Let's Connect!</h2>
----
+
 I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on and looking for fun ideas. I am always open to hear stories and share insights.
 
 ### Experience
