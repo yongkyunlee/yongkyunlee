@@ -50,6 +50,7 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="PostgresQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
 </p>
     
 ### Recent blog posts
