@@ -52,21 +52,21 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
 <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
     
-### Recent Blog Posts
+### Recent blog posts
 
 * [Graduating from Caltech](https://noninertialframe.com/blog/Graduating%20from%20Caltech)
 * [Effect of Corruption on Stock Market Development](https://noninertialframe.com/blog/Effect%20of%20Corruption%20on%20Stock%20Market%20Development)
 * [Noninertial Frame Update - Version 3](https://noninertialframe.com/blog/Noninertial%20Frame%20Update%20-%20Version%203)
 * [TreeHacks 2021 - PageChat](https://noninertialframe.com/blog/TreeHacks%202021%20-%20PageChat)
 
-### Recently Read Books
+### Recently read books
 
 * [Fintech Founders: Inspiring Tales from the Entrepreneurs that are Changing Finance](https://www.goodreads.com/book/show/49505988-fintech-founders)
 * [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile)
 * [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving)
 * [Loonshots](https://www.goodreads.com/book/show/39863447-loonshots)
 
-### Connect with Me
+### Find me on
 
 <a href="https://wwww.noninertialframe.com" target="_blank">
     <img alt="Noninertial Frame" src="https://img.shields.io/badge/-Noninertial Frame-65737e?style=flat-square&logoColor=">
