@@ -87,8 +87,6 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
