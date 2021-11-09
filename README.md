@@ -27,13 +27,6 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
 </p>
 
 <p>
-    <a href="https://www.goldmansachs.com" target="_blank">
-        <img alt="Goldman Sachs" src="./assets/GoldmanSachs.png" width="15"/>
-    </a>
-    <a href="https://www.goldmansachs.com" target="_blank">Goldman Sachs</a>, <i>Summer Analyst</i> (Jul, 2020 - Aug, 2020)
-</p>
-
-<p>
     <a href="https://onclusive.com" target="_blank">
         <img alt="Onclusive" src="./assets/Onclusive.png" width="15"/>
     </a>
@@ -49,6 +42,7 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
 
 ### Skills
 
+<p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-2b6ea3?style=flat-square&logo=Python&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/Angular-A6120D?style=flat-square&logo=angular&logoColor=white" />
@@ -56,7 +50,8 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="PostgresQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-
+</p>
+    
 ### Recent Blog Posts
 
 * [Graduating from Caltech](https://noninertialframe.com/blog/Graduating%20from%20Caltech)
@@ -85,6 +80,8 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
 <a href="mailto:yonkyun.daniel.lee@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+
+### Statistics
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
