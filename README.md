@@ -81,31 +81,3 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
 <a href="mailto:yonkyun.daniel.lee@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
-### Statistics
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Markdown                 7 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   35.45% 
-HTML                     4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   22.74% 
-Python                   3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
-TypeScript               2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-SQL                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.45%
-
-🐱‍💻 Projects: 
-chat-client              9 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.56% 
-user-api                 7 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   34.05% 
-chrome-extension         2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
-advent_of_code           1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.71% 
-presence-api             52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
-
-```
-
-
-<!--END_SECTION:waka-->
-
