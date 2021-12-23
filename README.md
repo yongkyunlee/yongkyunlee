@@ -55,10 +55,10 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
     
 ### Recent blog posts
 
+* [PageNow - Part 3 (Presence API, Chat API)](https://noninertialframe.com/blog/PageNow%20-%20Part%203%20%28Presence%20API,%20Chat%20API%29)
 * [PageNow - Part 2 (Extension, Client, and user-api)](https://noninertialframe.com/blog/PageNow%20-%20Part%202%20%28Extension,%20Client,%20and%20user-api%29)
 * [PageNow - Part 1 (Development Overview)](https://noninertialframe.com/blog/PageNow%20-%20Part%201%20%28Development%20Overview%29)
 * [Graduating from Caltech](https://noninertialframe.com/blog/Graduating%20from%20Caltech)
-* [Effect of Corruption on Stock Market Development](https://noninertialframe.com/blog/Effect%20of%20Corruption%20on%20Stock%20Market%20Development)
 
 ### Recently read books
 
