@@ -55,18 +55,29 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
     
 ### Recent blog posts
 
+* [Web3 Ideathon](https://noninertialframe.com/blog/Web3%20Ideathon)
+* [Presence API - Part 5 (Unit Tests, Circle CI, Codecov)](https://noninertialframe.com/blog/Presence%20API%20-%20Part%205%20%28Unit%20Tests,%20Circle%20CI,%20Codecov%29)
+* [Presence API - Part 4 (AWS API Gateway, EventBridge, Service Costs)](https://noninertialframe.com/blog/Presence%20API%20-%20Part%204%20%28AWS%20API%20Gateway,%20EventBridge,%20Service%20Costs%29)
+* [Presence API - Part 3 (AWS Lambda)](https://noninertialframe.com/blog/Presence%20API%20-%20Part%203%20%28AWS%20Lambda%29)
+
+<!--
 * [Presence API - Part 2 (AWS VPC, Security Group, ElastiCache, RDS Proxy, DynamoDB)](https://noninertialframe.com/blog/Presence%20API%20-%20Part%202%20%28AWS%20VPC,%20Security%20Group,%20ElastiCache,%20RDS%20Proxy,%20DynamoDB%29)
 * [Presence API - Part 1 (Architecture, AWS CDK)](https://noninertialframe.com/blog/Presence%20API%20-%20Part%201%20%28Architecture,%20AWS%20CDK%29)
 * [PageNow - Part 3 (Presence API, Chat API)](https://noninertialframe.com/blog/PageNow%20-%20Part%203%20%28Presence%20API,%20Chat%20API%29)
 * [PageNow - Part 2 (Extension, Client, and user-api)](https://noninertialframe.com/blog/PageNow%20-%20Part%202%20%28Extension,%20Client,%20and%20user-api%29)
 * [PageNow - Part 1 (Development Overview)](https://noninertialframe.com/blog/PageNow%20-%20Part%201%20%28Development%20Overview%29)
+-->
 
-### Recently read books
+### Books I enjoyed reading
 
+* [Born a Crime: Stories From a South African Childhood](https://www.goodreads.com/book/show/29780253-born-a-crime)
 * [Fintech Founders: Inspiring Tales from the Entrepreneurs that are Changing Finance](https://www.goodreads.com/book/show/49505988-fintech-founders)
 * [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile)
+
+<!--
 * [Misbehaving: The Making of Behavioral Economics](https://www.goodreads.com/book/show/26530355-misbehaving)
 * [Loonshots](https://www.goodreads.com/book/show/39863447-loonshots)
+-->
 
 ### Find me on
 
