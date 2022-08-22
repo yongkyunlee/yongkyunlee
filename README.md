@@ -1,6 +1,6 @@
 <h2 align="center">Let's Connect!</h2>
 
-I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on and looking for fun ideas. I am always open to hear stories and share insights. Don't hestiate to reach out 😃
+I am **Yongkyun (Daniel) Lee**, an aspiring engineer/entrepreneur working on and looking for fun ideas. I am always open to hear stories and share insights. Don't hestiate to reach out 😃
 
 <!-- ### Experiences
 
@@ -55,6 +55,7 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineering/entrepreneur working on 
     
 ### Recent blog posts
 
+* [Joining Onehouse](https://noninertialframe.com/blog/Joining%20Onehouse)
 * [Web3 Ideathon](https://noninertialframe.com/blog/Web3%20Ideathon)
 * [Presence API - Part 5 (Unit Tests, Circle CI, Codecov)](https://noninertialframe.com/blog/Presence%20API%20-%20Part%205%20%28Unit%20Tests,%20Circle%20CI,%20Codecov%29)
 * [Presence API - Part 4 (AWS API Gateway, EventBridge, Service Costs)](https://noninertialframe.com/blog/Presence%20API%20-%20Part%204%20%28AWS%20API%20Gateway,%20EventBridge,%20Service%20Costs%29)
