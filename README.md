@@ -84,7 +84,7 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineer/entrepreneur working on and
 
 ### Find me on
 
-<a href="https://wwww.noninertialframe.com" target="_blank">
+<a href="https://www.noninertialframe.com" target="_blank">
     <img alt="Noninertial Frame" src="https://img.shields.io/badge/-Noninertial Frame-65737e?style=flat-square&logoColor=">
 </a>
 <a href="https://www.linkedin.com/in/yongkyunlee/" target="_blank">
