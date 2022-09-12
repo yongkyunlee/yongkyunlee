@@ -38,7 +38,7 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineer/entrepreneur working on and
         <img alt="Naver" src="./assets/Naver.png" width="15"/>
     </a>
     <a href="https://www.navercorp.com/" target="_blank">Naver</a>, <i>AI Research Intern Intern</i> (Jun, 2018 - Sep, 2018)
-</p> -->
+</p>
 
 ### Skills
 
@@ -52,6 +52,8 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineer/entrepreneur working on and
 <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
 </p>
+
+-->
     
 ### Recent blog posts
 
