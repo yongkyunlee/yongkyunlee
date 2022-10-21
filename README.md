@@ -73,7 +73,7 @@ I am **Yongkyun (Daniel) Lee**, an aspiring engineer/entrepreneur working on and
 
 ### Books I enjoyed reading
 
-* [Born a Crime: Stories From a South African Childhood](https://www.goodreads.com/book/show/29780253-born-a-crime)
+* [The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World](https://www.goodreads.com/book/show/29905580-the-upstarts)
 * [Fintech Founders: Inspiring Tales from the Entrepreneurs that are Changing Finance](https://www.goodreads.com/book/show/49505988-fintech-founders)
 * [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/book/show/13530973-antifragile)
 
